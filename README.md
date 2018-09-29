@@ -3,7 +3,8 @@ new content
 
 again updated content but now by GITHUB
 
-
 smth newwww
 
-again new stuff
+
+smth new from GitHub --- MEEEERGE CONFLICT SOLVED
+
